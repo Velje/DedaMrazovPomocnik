@@ -1,4 +1,5 @@
 Pokretanje u terminalu:
+
 java -jar DedaMrazovPomocnik_v1.0
 
 Korak 1:
