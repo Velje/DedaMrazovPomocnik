@@ -12,7 +12,7 @@ Ucitaj poklone
 
 **Korak 3:**
 
-Napuni paketic (__mnogo puta__)
+Napuni paketic (**prebrojivo mnogo puta**)
 
 **Korak 4 (KONACAN KORAK):**
 
@@ -22,4 +22,4 @@ Prikazi spisak za Deda Mraza (ovako Deda Mraz ima spisak koliko cega da kupi u p
 
 **Prvo slovo** moze biti **I** (Igracka) ili **S** (Slatkis ili Slanis kod njih je uvek neutralan pol) - vrste poklona
 
-**Drugo slovo moze** biti **M** (Muski), Z(Zenski), **N** (Neutralni) - pol za koji je namenjena igracka (samo kod nje je bitan pol)
+**Drugo slovo moze** biti **M** (Muski), Z(Zenski), **N** (Neutralni) - pol za koji je namenjen poklon (samo kod igracke je je bitan pol)
