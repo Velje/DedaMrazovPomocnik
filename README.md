@@ -1,3 +1,5 @@
+Secret MATF jan1 2023 ispit idea.
+
 **Pokretanje u terminalu:**
 
 ``java -jar DedaMrazovPomocnik_v1.0``
@@ -22,4 +24,4 @@ Prikazi spisak za Deda Mraza (ovako Deda Mraz ima spisak koliko cega da kupi u p
 
 **Prvo slovo** moze biti **I** (Igracka) ili **S** (Slatkis ili Slanis kod njih je uvek neutralan pol) - vrsta poklona
 
-**Drugo slovo moze** biti **M** (Muski), **Z** (Zenski), **N** (Neutralni) - pol za koji je namenjen poklon (samo kod igracke je je bitan pol)
+**Drugo slovo moze** biti **M** (Muski), **Z** (Zenski), **N** (Neutralni) - pol za koji je namenjen poklon (samo kod igracke je bitan pol)
